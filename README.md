@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin when working with collections. The `filter` function is misused to attempt to filter a list based on both the element's value and its index. The correct approach, using `filterIndexed`, is shown in the solution file.
